@@ -16,7 +16,8 @@ class L2996{
         
         return sum;
     }
-    public void main(int[] nums){
+    public void main(String[] args){
+        int[] nums = {1, 2, 3, 2, 5};
         missingInteger(nums);
     }
 }
